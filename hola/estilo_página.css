@@ -1,0 +1,27 @@
+#titulo{
+     background-color: rgb(217, 179, 132);
+     font-size: xx-large;
+     color: rgb(62, 35, 3);
+}
+
+.estilo{
+    background-color: bisque;
+    color: black;
+    font-size: medium;
+}
+#lista{
+    background-color: bisque;
+    color: #6c4311;
+    font-size: larger;
+}
+.numeros{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: bisque;
+    color: #6c4311;
+    font-size: small;
+}
+nav ul{
+    font-size: smaller;
+    color: bisque;
+    font-style: oblique;
+}
